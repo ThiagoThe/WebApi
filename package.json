@@ -1,0 +1,21 @@
+{
+  "name": "webapi",
+  "version": "1.0.0",
+  "description": "WEBAPI",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "WEBAPI"
+  },
+  "author": "Thiago Pires",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^4.12.1"
+  },
+  "devDependencies": {}
+}
